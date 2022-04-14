@@ -1,0 +1,25 @@
+{
+    "connections": [
+        "purboindra@gmail.com",
+        "1801030126@students.unis.ac.id"
+    ],
+    "total_chats": 10,
+    "total_read": 8,
+    "total_unread": 2,
+    "chat": [
+        {
+            "pengirim": "1801030126@students.unis.ac.id",
+            "penerima": "purboindra@gmail.com",
+            "pesan": "Hai, purbo",
+            "time": "2022-03-25T13:28:9.748721",
+            "isRead": true
+        },
+       { "pengirim": "purboindra@gmail.com",
+            "penerima": "1801030126@students.unis.ac.id",
+            "pesan": "Hai, jugaa",
+            "time": "2022-03-25T13:28:9.748721",
+            "isRead": false
+        }
+    ],
+    "lastTime": "2022-03-25T13:28:9.748721"
+}
